@@ -1,7 +1,3 @@
-Here’s a README template for your chat application project:
-
----
-
 # Chat Application
 
 A real-time chat application built with **Spring Boot**, **WebSocket**, and **MySQL**. This chat app allows users to join a chat room, send messages, and view messages in real-time.
