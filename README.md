@@ -126,10 +126,5 @@ http://localhost:8080
 │   │   └── pom.xml
 ```
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 This README provides a comprehensive guide for setting up and using your chat application. You can replace the placeholders with your actual GitHub username and customize further if needed.
